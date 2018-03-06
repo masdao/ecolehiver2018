@@ -106,3 +106,7 @@ ENV/
 # Eclipse
 .project
 .pydevproject
+
+# Visual Studio Code
+.vscode
+
