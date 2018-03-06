@@ -102,3 +102,7 @@ ENV/
 
 # macOS finder
 .DS_Store
+
+# Eclipse
+.project
+.pydevproject
